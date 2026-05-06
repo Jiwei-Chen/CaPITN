@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of the paper: ***CaPITN: A Causality-Constrained and Enhanced Physics-Informed Transformer Framework for Solving Partial Differential Equations***.
+This repository contains the implementation of the paper: ***CaPITN: A Causality-Constrained and Enhanced Physics-Informed Transformer Framework for Forward and Inverse PDE Problems***.
 
 **Status**: The manuscript is currently **Under Review**. No preprint version has been submitted to arXiv at this stage.
 
