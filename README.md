@@ -19,7 +19,7 @@ Once published, please update your citation to refer to the official journal DOI
 2. Run the training script:
 
     ```bash
-    python <notebook_name>.ipynb
+    jupyter nbconvert --to notebook --execute <notebook_name>.ipynb --inplace
     ```
 
 3. All training results are saved in the `results/` folder of the corresponding case. You can load the relevant `.pt` files to reproduce the experimental results.
